@@ -11,7 +11,6 @@ namespace ModernLangToolsApp
     [XmlRoot("Jedi")]
     public class Jedi
     {
-
         private int midiChlorianCount;
         [XmlAttribute("Nev")]
         public string Name { get; set; }
