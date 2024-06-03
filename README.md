@@ -1,0 +1,1 @@
+# Szoftver technikák házik megoldása
